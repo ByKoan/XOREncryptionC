@@ -5,5 +5,9 @@ Basically a program written in C that encrypts text **A** with a key **B** using
 Added functionality to export both texts to .txt text files
 
 To compile just use:
-***Windows***: '''bash gcc code.c -o code.exe'''
-***Linux***: '''bashgcc code.c -o code.elf'''
+***Windows***: '''bash gcc 
+code.c -o code.exe
+'''
+***Linux***: '''bash
+gcc code.c -o code.elf
+'''
